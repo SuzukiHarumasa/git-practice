@@ -4,5 +4,3 @@ localで編集
 change in new-feature branch
 change in conflict
 change in Github
-change in conflict-remote
-change on rebase-practice
